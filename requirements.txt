@@ -1,4 +1,4 @@
-Flask==2.1.1
+Flask==2.3.2
 celery==5.2.3
 redis==4.4.4
 pymysql==1.0.2
